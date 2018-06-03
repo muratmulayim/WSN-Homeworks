@@ -1,0 +1,3 @@
+COMPONENT=WSN_HW3_AppC
+include $(MAKERULES)
+
